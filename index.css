@@ -1,0 +1,16 @@
+.body {
+  display: inline-block;
+  margin: 0px;
+  
+}
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+.black {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
